@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132275559038",
+    "project_id": "bakeryapps-862d6",
+    "storage_bucket": "bakeryapps-862d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132275559038:android:84e19c1a77644f6bde962f",
+        "android_client_info": {
+          "package_name": "com.example.bake_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSshi1dp6l-_DHhsrI-8y9e4oKDOR8Fr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
